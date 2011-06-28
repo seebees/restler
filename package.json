@@ -8,6 +8,8 @@
     "main" : "./lib/restler",
     "engines": { "node": ">= 0.3.7" },
     "devDependencies" : {
-      "vows" : ">=0.1.0"
+      "vows"     : ">=0.1.0",
+      "xml2js"   : ">=0.1.5",
+      "yaml"     : ">=0.2.1"
     }
 }
